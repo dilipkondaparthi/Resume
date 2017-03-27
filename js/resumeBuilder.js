@@ -244,7 +244,7 @@ function inName(x) {
  return x[0].slice(0, 1).toUppercase() + x[0].slice(1).toLowerCase() + " " + x[1].toUppercase();
 }
 
-$('#main').append(internationalizeButton);
+//$('#main').append(internationalizeButton);
 
 
 education.display = function() {
@@ -388,4 +388,4 @@ $(document).click(function(loc) {
 })
 
 // Adding map!
-$("#mapDiv").append(googleMap);
+//$("#mapDiv").append(googleMap);
