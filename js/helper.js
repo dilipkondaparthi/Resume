@@ -40,7 +40,7 @@ var HTMLresponsibilitiesDescription = '<span><br>%data%<br></span>';
 
 
 var HTMLprojectStart = '<div class="project-entry"></div>';
-var HTMLprojectTitle = '<a href="#">%data%</a>';
+var HTMLprojectTitle = '<a href="#" target="_blank">%data%</a>';
 var HTMLprojectDates = '<div class="date-text">%data%</div>';
 var HTMLprojectDescription = '<p><br>%data%</p><br>';
 var HTMLprojectImage = '<img src="%data%">';
