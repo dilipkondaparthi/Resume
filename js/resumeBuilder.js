@@ -155,11 +155,11 @@ var projects = {
 
 var acadAcheive = {
  "achieve": [{
-  "details": "98 in IIT-JEE 2012 (out of 500000 candidates)."
+  "details": "98 in IIT-JEE 2012 (out of 5M candidates)."
  }, {
-  "details": "98.3 in AIEEE 2012 (of around 1200000 candidates)."
+  "details": "98.3 in AIEEE 2012 (of around 1.2M candidates)."
  }, {
-  "details": "98 in EAMCET 2012 (of around 130000 candidates)."
+  "details": "98 in EAMCET 2012 (of around 1.3M candidates)."
  }, {
   "details": "95.1 in IPE(class 12) - State Board."
  }, {
